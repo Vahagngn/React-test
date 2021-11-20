@@ -1,0 +1,16 @@
+.cats-container {
+    background: rgb(224, 255, 250);
+    width: 70%;
+    padding: 10px;
+    position: relative;
+    margin: auto;
+    box-shadow: 15px 17px 35px 11px #cccc;
+}
+
+img {
+    width: 25%;
+    height: 200px;
+    margin: 10px;
+    cursor: pointer;
+    float: left;
+}
